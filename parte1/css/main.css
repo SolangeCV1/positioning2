@@ -1,0 +1,21 @@
+.cajagrande{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: relative;
+}
+.cajamediana{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position: absolute;
+	top: 50px;
+	bottom:;
+	right:50px;   
+	left:;
+}
+.cajapequeña{
+	width: 50px;
+	height: 50px;
+	background-color: yellow;	
+}
